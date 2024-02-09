@@ -15,7 +15,7 @@
         "BOT_TOKEN": {
             "description": "",
             "value": "6953609281:AAFPPU7z0AbVmdRfdrV5OLJbQTOocnmnrTg"
-           "required": "true"
+            "required": "true"
         },
         "API_HASH": {
             "description": "",
