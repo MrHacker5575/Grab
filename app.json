@@ -1,0 +1,71 @@
+{
+    "name": "𝗖𝗗𝗫-GRAB-𝗕𝗢𝗧",
+    "description": "",
+    "logo": "https://telegra.ph/file/e93b2d6ea42813d072954.jpg",
+    "keywords": [
+        "TELETHON",
+         " 𝖢𝖮𝖣𝖤𝖷 𝖮𝖯",
+        "Telegram Bot",
+        "piro bolte",
+        "𝖢𝖮𝖣𝖤𝖷 𝖮𝖯"
+    ],
+    "website": "",
+    "success_url": "https://telegram.dog/NOOB_H4CKER",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "",
+            "value": ""
+           "required": "true"
+        },
+        "API_HASH": {
+            "description": "",
+            "value": ""  
+           "required": "true"
+        },
+          "PHOTO_URL": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+        },
+        "SUDOERS": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+       },
+          "OWNER_ID": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+      },
+        "API_ID": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+     },
+       "MONGO_URL": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+     },
+       "LOG_GROUP_ID": {
+            "description": "",
+            "value": ""   
+            "required": "true"
+    },
+       "UPDATE_CHAT": {
+            "description": "",
+            "value": ""    
+           "required": "true"
+     },
+       "BOT_USERNAME": {
+            "description": "",
+            "value": ""
+           "required": "true"
+     },
+       "SUPPORT_CHAT": {
+            "description": "",
+            "value": ""   
+           "required": "true"
+        }
+    }
+}
