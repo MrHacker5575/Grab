@@ -14,57 +14,57 @@
     "env": {
         "BOT_TOKEN": {
             "description": "",
-            "value": ""
+            "value": "6953609281:AAFPPU7z0AbVmdRfdrV5OLJbQTOocnmnrTg"
            "required": "true"
         },
         "API_HASH": {
             "description": "",
             "value": ""  
-           "required": "true"
+           "required": "false"
         },
           "PHOTO_URL": {
             "description": "",
             "value": ""   
-           "required": "true"
+           "required": "false"
         },
         "SUDOERS": {
             "description": "",
-            "value": ""   
+            "value": "5129320633"   
            "required": "true"
        },
           "OWNER_ID": {
             "description": "",
-            "value": ""   
+            "value": "5129320633"   
            "required": "true"
       },
         "API_ID": {
             "description": "",
             "value": ""   
-           "required": "true"
+           "required": "false"
      },
        "MONGO_URL": {
             "description": "",
-            "value": ""   
+            "value": "mongodb+srv://TeamCDX:TeamCDX@teamcdx.cy2lrye.mongodb.net/?retryWrites=true&w=majority"   
            "required": "true"
      },
        "LOG_GROUP_ID": {
             "description": "",
-            "value": ""   
+            "value": "-1002033678903"   
             "required": "true"
     },
        "UPDATE_CHAT": {
             "description": "",
-            "value": ""    
+            "value": "OP_CODEX"    
            "required": "true"
      },
        "BOT_USERNAME": {
             "description": "",
-            "value": ""
-           "required": "true"
+            "value": "spamsabot"
+           "required": "false"
      },
        "SUPPORT_CHAT": {
             "description": "",
-            "value": ""   
+            "value": "TEAM_CDX"   
            "required": "true"
         }
     }
