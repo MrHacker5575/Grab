@@ -51,20 +51,12 @@
             "value": "-1002033678903"   
             "required": "true"
     },
-       "UPDATE_CHAT": {
-            "description": "codex",
-            "value": "OP_CODEX"    
-           "required": "true"
-     },
+       
        "BOT_USERNAME": {
             "description": "",
             "value": "spamsabot"
            "required": "false"
      },
-       "SUPPORT_CHAT": {
-            "description": "codex",
-            "value": "TEAM_CDX"   
-           "required": "true"
-        }
+      
    
     }
