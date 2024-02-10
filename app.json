@@ -9,8 +9,8 @@
         "piro bolte",
         "𝖢𝖮𝖣𝖤𝖷 𝖮𝖯"
     ],
-    "website": "",
-    "success_url": "https://telegram.dog/NOOB_H4CKER",
+   
+
     "env": {
         "BOT_TOKEN": {
             "description": "",
@@ -67,4 +67,5 @@
             "value": "TEAM_CDX"   
            "required": "true"
         }
+   
     }
