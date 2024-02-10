@@ -10,35 +10,34 @@
         "𝖢𝖮𝖣𝖤𝖷 𝖮𝖯"
     ],
    
-
-    "env": {
+"env": {
         "BOT_TOKEN": {
-            "description": "",
+            "description": "A Bot's token from Botfather",
             "value": "6953609281:AAFPPU7z0AbVmdRfdrV5OLJbQTOocnmnrTg"
             "required": "true"
         },
-        "API_HASH": {
-            "description": "",
+    "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
             "value": ""  
            "required": "false"
         },
           "PHOTO_URL": {
-            "description": "",
+            "description": "the picture that you want",
             "value": ""   
            "required": "false"
         },
         "SUDOERS": {
-            "description": "",
+            "description": "sudo users",
             "value": "5129320633"   
            "required": "true"
        },
           "OWNER_ID": {
-            "description": "",
+            "description": "owner id",
             "value": "5129320633"   
            "required": "true"
       },
         "API_ID": {
-            "description": "",
+            "description": "Get this value from https://my.telegram.org",
             "value": ""   
            "required": "false"
      },
@@ -48,12 +47,12 @@
            "required": "true"
      },
        "LOG_GROUP_ID": {
-            "description": "",
+            "description": "Get a mongodb url from https://cloud.mongodb.com.",
             "value": "-1002033678903"   
             "required": "true"
     },
        "UPDATE_CHAT": {
-            "description": "",
+            "description": "codex",
             "value": "OP_CODEX"    
            "required": "true"
      },
@@ -63,7 +62,7 @@
            "required": "false"
      },
        "SUPPORT_CHAT": {
-            "description": "",
+            "description": "codex",
             "value": "TEAM_CDX"   
            "required": "true"
         }
