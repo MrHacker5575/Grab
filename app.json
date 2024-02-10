@@ -51,7 +51,16 @@
             "value": "-1002033678903"   
             "required": "true"
     },
-       
+       "SUPPORT_CHAT": {
+            "description": "codex",
+            "value": "TEAM_CDX"   
+           "required": "true"
+        }
+          "UPDATE_CHAT": {
+             "description": "codex",
+            "value": "OP_CODEX"    
+           "required": "true"
+     },
        "BOT_USERNAME": {
             "description": "",
             "value": "spamsabot"
