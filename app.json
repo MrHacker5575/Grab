@@ -1,0 +1,30 @@
+{
+  "name": "CDX GRABER",
+  "repository": "https://github.com/MrHacker5575/Grab",
+  "logo": "https://example.com/path_to_your_logo.png",
+  "env": {
+    "OWNER_ID": "",
+    "sudo_users": "",
+    "GROUP_ID": "",
+    "TOKEN": "",
+    "mongo_url": "",
+    "PHOTO_URL": "[\"https://telegra.ph/file/b925c3985f0f325e62e17.jpg\", \"https://telegra.ph/file/4211fb191383d895dab9d.jpg\"]",
+    "SUPPORT_CHAT": "",
+    "UPDATE_CHAT": "",
+    "BOT_USERNAME": "spamsabot",
+    "CHARA_CHANNEL_ID": "",
+    "api_id": "26626068",
+    "api_hash": "bf423698bcbe33cfd58b11c78c42caa2"
+  },
+  "formation": {
+    "web": {
+      "command": "python bot.py",
+      "env": {
+        "PYTHONUNBUFFERED": "True"
+      }
+    }
+  },
+  "addons": [
+    "heroku/python"
+  ]
+}
